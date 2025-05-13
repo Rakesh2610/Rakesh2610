@@ -10,9 +10,9 @@
 - 🎓 Final Year B.Sc. in Computer Science & Cloud Computing
 - 🔭 Currently working on **Real-time Sign Language Converter using ISL**
 - 🧠 Exploring **Deep Learning, MediaPipe, OpenCV, and Supabase**
-- 🌐 Built apps with **Firebase, Flask, TensorFlow, React, Node.js, AWS**
-- 🧩 Motto: *"Think like a fool, work like a brilliant"*
-- 🏁 Philosophy: *“Don’t stop running — success starts when you persist.”*
+- 🌐 Built apps with **Firebase, Flask, TensorFlow, Reactjs, Supabase, Azure, OpenCV, Mediapipe, AWS**
+- 🧩 Driven by curiosity, grounded in execution — **I believe in learning fast and building faster**
+- 🏁 Consistency beats intensity. **I focus on steady progress, one meaningful step at a time**
 
 ---
 
