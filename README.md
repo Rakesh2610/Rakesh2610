@@ -12,7 +12,7 @@
 - 🧠 Exploring **Deep Learning, MediaPipe, OpenCV, and Supabase**
 - 🌐 Built apps with **Firebase, Flask, TensorFlow, Reactjs, Supabase, Azure, OpenCV, Mediapipe, AWS**
 - 🧩 Driven by curiosity, grounded in execution — **I believe in learning fast and building faster**
-- 🏁 Consistency beats intensity. **I focus on steady progress, one meaningful step at a time**
+
 
 ---
 
