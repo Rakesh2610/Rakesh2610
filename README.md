@@ -58,8 +58,6 @@
 - 🧠 **Deep Learning Projects**  
   Classification models, image recognition, hand tracking, and gesture prediction.
 
-- 👕 **AR Dressing Room** *(In Progress)*  
-  Virtual try-on experience using body detection and AR overlays.
 
 - 🥘 **Recipe Generator App**  
   Enter ingredients → Get recipes + calories using Gemini API, Flask & Tailwind.
